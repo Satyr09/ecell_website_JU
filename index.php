@@ -6,7 +6,7 @@ $_SESSION['message']="";
 //requiring the credentials
 include 'homepage/dbconnect.php';
 // Create connection
-$dbName="juecelli_certificate";
+$dbName="";
 $connection = @mysqli_connect($server, $username, $password, $dbName);
 
 // Check connection
