@@ -144,11 +144,11 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
 <section class="navigation" style="width:100%">
 <div class="nav-container">
   <div class="brand">
-   <p> <a href="#!"><img src="assets/images/main_logo2.png"/ style="height: 55px;padding-top:20%"></a></p>
+   <p> <a href="#!"><img src="assets/images/main_logo2.png" style="height: 55px;padding-top:20%"></a></p>
     
   </div>
   <div class="brand">
-   <p> <a href="#!"><img src="assets/images/main_logo.png"/ style="height: 55px;padding-top:20%"></a></p>
+   <p> <a href="#!"><img src="assets/images/main_logo.png" style="height: 55px;padding-top:20%"></a></p>
     
   </div>
   
@@ -156,44 +156,44 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
     <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
     <ul class="nav-list">
       <li>
-        <a href="#!">Home</a>
+        <a href="#">Home</a>
       </li>
       <li>
-        <a href="#!">About</a>
+        <a href="#">About</a>
       </li>
       <li>
-        <a href="#!">Initiatives</a>
+        <a href="#">Initiatives</a>
         <ul class="nav-dropdown">
           <li>
-            <a href="#!">Hult Prize</a>
+            <a href="#">Hult Prize</a>
           </li>
           <li>
-            <a href="#!">Summer in a Startup</a>
+            <a href="#">Summer in a Startup</a>
           </li>
           <li>
-            <a href="#!">E-Weekend</a>
+            <a href="#">E-Weekend</a>
           </li>
         </ul>
       </li>
       <li>
-        <a href="#!">The Team</a>
+        <a href="#">The Team</a>
       </li>
       <li>
-        <a href="#!">Apply</a>
+        <a href="#">Apply</a>
         <ul class="nav-dropdown">
           <li>
-            <a href="#!">As Member</a>
+            <a href="#">As Member</a>
           </li>
           <li>
-            <a href="#!">As Coordinator</a>
+            <a href="#">As Coordinator</a>
           </li>
           <li>
-            <a href="#!">As Campus Ambassador</a>
+            <a href="#">As Campus Ambassador</a>
           </li>
         </ul>
       </li>
       <li>
-        <a href="#!">Contact</a>
+        <a href="#">Contact</a>
       </li>
     </ul>
   </nav>
@@ -383,7 +383,7 @@ We aim to help dreams take off, here at Jadavpur University!
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://www.idolator.com/wp-content/uploads/sites/10/2013/05/13/daft-punk-random-access-memories.jpg" alt="" />
-            <h3>Hult Prize@JU</h3>
+            <h3>Hult Prize at JU</h3>
             <p>Nobel Prize for Student Entrepreneurs</p>
           </a>
         </div>
@@ -986,12 +986,12 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				<br>
 				<br>
 				
-				<span >
-					<a style="color:inherit; text-decoration:none !important" href="#">Home</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Events</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">About</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Reach Us</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Testinomial</a><br><br>
+				<span>
+					<a style="text-decoration:none !important" href="#">Home</a><br><br>
+					<a style="text-decoration:none !important"  href="#">Events</a><br><br>
+					<a style="text-decoration:none !important"  href="#">About</a><br><br>
+					<a style="text-decoration:none !important"  href="#">Reach Us</a><br><br>
+					<a style="text-decoration:none !important"  href="#">Testinomial</a><br><br>
 				</span>
 				
       </div>
@@ -1003,10 +1003,10 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				<br>
 			
 				<span >
-					<a style="color:inherit; text-decoration:none !important" href="#">Hult Prize</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">E-weekend</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Startup Weekend</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Summer in a startup</a><br><br>
+					<a style="text-decoration:none !important" href="#">Hult Prize</a><br><br>
+					<a style="text-decoration:none !important"  href="#">E-weekend</a><br><br>
+					<a style="text-decoration:none !important"  href="#">Startup Weekend</a><br><br>
+					<a style="text-decoration:none !important"  href="#">Summer in a startup</a><br><br>
 				</span>
 				
       </div>
@@ -1017,15 +1017,6 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				</span>
 				<br>
 				<br>
-				<strong>
-				<span>
-					<a href="#" class="col-sm-2 footer-social fa fa-facebook"></a>
-					<a href="#" class="col-sm-2 footer-social fa fa-twitter"></a>
-					<a href="#" class="col-sm-2 footer-social fa fa-linkedin"></a>
-					<a href="#" class="col-sm-2 footer-social fa fa-youtube-play"></a>
-					<a href="#" class="col-sm-2 footer-social fa fa-google-plus"></a>
-				</span>
-				</strong>
 			</div>
 			<div class="col-sm-1"></div>
 			</div>
